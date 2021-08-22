@@ -11,23 +11,32 @@
   حفظ اطلاعات حتي با بهترين سيستم هاي امنيتي نيز در مرحله آخر ممكن است توسط صاحبان سرورهاي ابري مورد سوء استفاده قرار بگيرند و بهترين راهكار براي حفظ اطلاعات، رمزگذاري آن ها مي باشد. اين موضوع سبب مي شود حتي اگر بانك اطلاعاتي به سرقت رود نيز اطلاعات از افشا مصون بماند 
   آنچه در اين سمينار ارائه خواهد گرديد در راستاي پايان نامه اي براي ايجاد و استفاده از بانك اطلاعاتي رمزگذاري شده مي باشد
   
+<a name="Into"></a>
 ## مقدمه
-  <details> 
+  <details>
+    <summary><kbd>↩</kbd></summary>
   تست مقدمه
-  </details>  
+</details>
+  
 ## خلاصه ارائه
   <details> 
+    <summary><kbd>↩</kbd></summary>
   تست خلاصه
-  </details>  
+</details>  
+  
 ## مستندات ارائه
   <details> 
+    <summary><kbd>↩</kbd></summary>
     فايل Word : <br>
 [DocFile.docx](https://github.com/majidlotfi/RS_Seminar/files/7028124/DocFile.docx)
+    <br>
     فايل PDF : <br>
 [PdfFile.pdf](https://github.com/majidlotfi/RS_Seminar/files/7028127/PdfFile.pdf)
 
-  </details>  
+</details>  
+  
 ## نمونه سازي
   <details> 
+    <summary><kbd>↩</kbd></summary>
   تست تمونه
-  </details>  
+</details>  
