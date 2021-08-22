@@ -13,12 +13,21 @@
   
 ## مقدمه
   <details> 
-  
+  تست مقدمه
+  </details>  
 ## خلاصه ارائه
   <details> 
-  
+  تست خلاصه
+  </details>  
 ## مستندات ارائه
   <details> 
+    فايل Word : <br>
+[DocFile.docx](https://github.com/majidlotfi/RS_Seminar/files/7028124/DocFile.docx)
+    فايل PDF : <br>
+[PdfFile.pdf](https://github.com/majidlotfi/RS_Seminar/files/7028127/PdfFile.pdf)
 
+  </details>  
 ## نمونه سازي
   <details> 
+  تست تمونه
+  </details>  
