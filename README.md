@@ -27,7 +27,7 @@
 [PdfFile.pdf](https://github.com/majidlotfi/RS_Seminar/files/7028127/PdfFile.pdf)
     <br>
     فايل ارائه Powerpoint : <br>
-<object data="https://afrasysco.ir/Presentation.ppsx">
+    <iframe height="375" width="600" src="https://afrasysco.ir/Presentation.ppsx"></iframe>
 </details>  
   
 ## نمونه سازي
