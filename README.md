@@ -25,7 +25,9 @@
     <br>
     فايل PDF : <br>
 [PdfFile.pdf](https://github.com/majidlotfi/RS_Seminar/files/7028127/PdfFile.pdf)
-
+    <br>
+    فايل ارائه Powerpoint : <br>
+<object data="https://afrasysco.ir/Presentation.ppsx">
 </details>  
   
 ## نمونه سازي
