@@ -14,7 +14,9 @@
 ## خلاصه ارائه
   <details> 
     <summary><kbd>↩</kbd></summary>
-  تست خلاصه
+    صوت خلاصه
+    <br>
+    <a href="https://afrasysco.ir/Brief.m4a">https://afrasysco.ir/Brief.m4a</a>
 </details>  
   
 ## مستندات ارائه
