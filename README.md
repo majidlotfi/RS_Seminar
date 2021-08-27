@@ -16,20 +16,20 @@
     <summary><kbd>↩</kbd></summary>
     صوت خلاصه
     <br>
-    <a href="https://afrasysco.ir/Brief.m4a">https://afrasysco.ir/Brief.m4a</a>
+    <a href="https://github.com/majidlotfi/RS_Seminar/raw/main/Brief.m4a">Brief.m4a</a>
 </details>  
   
 ## مستندات ارائه
   <details> 
     <summary><kbd>↩</kbd></summary>
     فايل Word : <br>
-[DocFile.docx](https://github.com/majidlotfi/RS_Seminar/files/7028124/DocFile.docx)
+[DocFile.docx](https://github.com/majidlotfi/RS_Seminar/raw/main/DocFile.docx)
     <br>
     فايل PDF : <br>
-[PdfFile.pdf](https://github.com/majidlotfi/RS_Seminar/files/7028127/PdfFile.pdf)
+[PdfFile.pdf](https://github.com/majidlotfi/RS_Seminar/raw/main/PdfFile.pdf)
     <br>
     فايل ارائه Powerpoint : <br>
-    <a href="https://afrasysco.ir/Presentation.ppsx">https://afrasysco.ir/Presentation.ppsx</a>
+    <a href="https://github.com/majidlotfi/RS_Seminar/raw/main/Presentation.ppsx">Presentation.ppsx</a>
 </details>  
   
 ## نمونه سازي
