@@ -35,5 +35,5 @@
 ## نمونه سازي
   <details> 
     <summary><kbd>↩</kbd></summary>
-  تست تمونه
+  در حال انجام .....
 </details>  
