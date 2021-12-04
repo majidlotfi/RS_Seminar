@@ -40,8 +40,8 @@
     <br>
     فايل ارائه Powerpoint : <br>
     PPSX File <a href="https://github.com/majidlotfi/RS_Seminar/raw/main/Presentation.ppsx">Presentation.ppsx</a> <br>
-    PPTX File <a href="https://github.com/majidlotfi/RS_Seminar/raw/main/PowerPoint.pptx">Presentation.pptx</a> <br>
-
+    PPTX File <a href="https://github.com/majidlotfi/RS_Seminar/raw/main/PowerPoint.pptx">Presentation.pptx</a> 
+    <br>
     فايل ترجمه مقاله Word : <br>
 [DocFile.docx](https://github.com/majidlotfi/RS_Seminar/raw/main/DocFile.docx)
     <br>
