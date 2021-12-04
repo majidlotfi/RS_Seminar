@@ -10,6 +10,16 @@
   در برابر حملات معمولا سيستم هاي امنيتي تعبيه مي شود اما دسترسي هاي مجاز داراي مجوز عبور از سيستم هاي امنيتي مي باشند. اين دسترسي ها شامل كاربران و صاحبان سرورهاي ابري مي باشد. 
   حفظ اطلاعات حتي با بهترين سيستم هاي امنيتي نيز در مرحله آخر ممكن است توسط صاحبان سرورهاي ابري مورد سوء استفاده قرار بگيرند و بهترين راهكار براي حفظ اطلاعات، رمزگذاري آن ها مي باشد. اين موضوع سبب مي شود حتي اگر بانك اطلاعاتي به سرقت رود نيز اطلاعات از افشا مصون بماند 
   آنچه در اين سمينار ارائه خواهد گرديد در راستاي پايان نامه اي براي ايجاد و استفاده از بانك اطلاعاتي رمزگذاري شده مي باشد
+
+## منابع و Refrence
+  <details> 
+    <summary><kbd>↩</kbd></summary>
+    پايان نامه ها
+    <br>
+    <a href="https://scholarworks.uark.edu/etd/3578">Secure and Efficient Models for Retrieving Data from Encrypted Databases in Cloud (2020-05)</a> <br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/8079737">Improving Database Security in Cloud Computing by Fragmentation of Data</a> <br>
+    <a href="https://ieeexplore.ieee.org/document/7371492">Efficiently Managing Encrypted Data in Cloud Databases</a> <br>
+</details>  
   
 ## خلاصه ارائه
   <details> 
@@ -29,7 +39,8 @@
 [PdfFile.pdf](https://github.com/majidlotfi/RS_Seminar/raw/main/PdfFile.pdf)
     <br>
     فايل ارائه Powerpoint : <br>
-    <a href="https://github.com/majidlotfi/RS_Seminar/raw/main/Presentation.ppsx">Presentation.ppsx</a>
+    PPSX File <a href="https://github.com/majidlotfi/RS_Seminar/raw/main/Presentation.ppsx">Presentation.ppsx</a> <br>
+    PPTX File <a href="https://github.com/majidlotfi/RS_Seminar/raw/main/PowerPoint.pptx">Presentation.pptx</a> <br>
 </details>  
   
 ## نمونه سازي
