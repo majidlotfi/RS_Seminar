@@ -32,15 +32,23 @@
 ## مستندات ارائه
   <details> 
     <summary><kbd>↩</kbd></summary>
-    فايل Word : <br>
-[DocFile.docx](https://github.com/majidlotfi/RS_Seminar/raw/main/DocFile.docx)
+    فايل گزارش Word : <br>
+[DocFile.docx](https://github.com/majidlotfi/RS_Seminar/raw/main/NewDocFile.docx)
     <br>
-    فايل PDF : <br>
-[PdfFile.pdf](https://github.com/majidlotfi/RS_Seminar/raw/main/PdfFile.pdf)
+     فايل گزارش PDF : <br>
+[PdfFile.pdf](https://github.com/majidlotfi/RS_Seminar/raw/main/NewDocFile.pdf)
     <br>
     فايل ارائه Powerpoint : <br>
     PPSX File <a href="https://github.com/majidlotfi/RS_Seminar/raw/main/Presentation.ppsx">Presentation.ppsx</a> <br>
     PPTX File <a href="https://github.com/majidlotfi/RS_Seminar/raw/main/PowerPoint.pptx">Presentation.pptx</a> <br>
+
+    فايل ترجمه مقاله Word : <br>
+[DocFile.docx](https://github.com/majidlotfi/RS_Seminar/raw/main/DocFile.docx)
+    <br>
+     فايل ترجمه مقاله PDF : <br>
+[PdfFile.pdf](https://github.com/majidlotfi/RS_Seminar/raw/main/PdfFile.pdf)
+    <br>
+
 </details>  
   
 ## نمونه سازي
