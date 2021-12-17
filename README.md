@@ -17,7 +17,7 @@
     پايان نامه ها
     <br>
     <a href="https://scholarworks.uark.edu/etd/3578">Secure and Efficient Models for Retrieving Data from Encrypted Databases in Cloud (2020-05)</a> <br>
-    <a href="https://ieeexplore.ieee.org/abstract/document/8079737">Improving Database Security in Cloud Computing by Fragmentation of Data</a> <br>
+    <a href="https://www.academia.edu/download/64039169/18-ISROSET-IJSRCSE-03001-102.pdf">Improving Database Security in Cloud Computing</a> <br>
     <a href="https://ieeexplore.ieee.org/document/7371492">Efficiently Managing Encrypted Data in Cloud Databases</a> <br>
 </details>  
   
